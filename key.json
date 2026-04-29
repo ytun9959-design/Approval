@@ -1,4 +1,6 @@
 {
-    "keys": [],
+    "keys": [
+        "testkey1"
+    ],
     "expirations": {}
 }
