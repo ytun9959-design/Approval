@@ -1,9 +1,6 @@
 {
     "keys": [
-        "testkey1",
-        "10309u0_a309"
+        "testkey1"
     ],
-    "expirations": {
-        "10309u0_a309": 1777908747.686506
-    }
+    "expirations": {}
 }
